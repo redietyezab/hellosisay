@@ -9,6 +9,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	</http:listener-config>
 	<flow name="ephaFlow" doc:id="b19dc235-7d2f-422b-a2db-762fe7bf31fd" >
 		<http:listener doc:name="Listener" doc:id="cfcd0481-330d-485c-ae75-cfb41b6fd49e" config-ref="HTTP_Listener_config" path="/"/>
-		<logger level="INFO" doc:name="Logger" doc:id="123be4c7-86fa-442e-bc64-a17f129ece10" message="hello eph"/>
+		<logger level="INFO" doc:name="Logger" doc:id="123be4c7-86fa-442e-bc64-a17f129ece10" message="by byte   emkfdmn;l';th';samflvm;df ,;"/>
 	</flow>
 </mule>
